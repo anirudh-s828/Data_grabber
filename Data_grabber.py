@@ -1,6 +1,6 @@
 # To get more cooler libraries that can help you do python easily                                                              #
 # open your browser and type in this link https://discord.gg/F9wQ5yNB and join my server's python channel if you have a discord#
-# open your instagram and follow me, my username is                                                                            #
+# open your instagram and follow me, my username is sphynxes_studios                                                                       #
 ################################################################################################################################
 import datetime
     
